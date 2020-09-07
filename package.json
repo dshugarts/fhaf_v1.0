@@ -42,7 +42,7 @@
     "express-session": "^1.16.2",
     "fullcalendar": "^3.10.1",
     "gmaps": "^0.4.24",
-    "handlebars": "^4.2.0",
+    "handlebars": "^4.5.3",
     "jquery": "^3.4.1",
     "jquery-datatables-checkboxes": "^1.2.11",
     "jquery-mask-plugin": "^1.14.16",
