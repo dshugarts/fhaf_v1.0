@@ -22,7 +22,7 @@
     "bootstrap-touchspin": "^4.2.5",
     "britecharts": "^2.12.0",
     "bson": "^4.0.2",
-    "chart.js": "^2.8.0",
+    "chart.js": "^2.9.4",
     "cookie-session": "^1.3.3",
     "datatables.net": "^1.10.19",
     "datatables.net-bs4": "^1.10.19",
